@@ -84,13 +84,22 @@ These are potential applications of the analysis, not verified business outcomes
 - Examine outliers and unusual trips.
 - Develop an interactive dashboard.
 
-## Project Notebook
+## Project Files
 
-[View the Jupyter Notebook](Activity_Course%203%20Automatidata%20project%20lab.ipynb)
+This repository contains the Python analysis notebook and an executive summary presenting the project's key findings.
 
-The notebook contains Python code, exploratory analysis, visualizations, and written conclusions.
+### 1. Jupyter Notebook
+[View Python EDA Notebook](Activity_Course%203%20Automatidata%20project%20lab.ipynb)
+
+Includes Python code, exploratory data analysis, visualizations, and conclusions.
+
+### 2. Executive Summary
+[View Executive Summary (PDF)](NYC_Taxi_Trip_Analysis_Executive_Summary.pdf)
+
+Summarizes the business objective, key insights, taxi ride frequency patterns, and recommendations for further analysis.
 
 **Note:** The original CSV dataset is not included in this repository. Reproducing the analysis requires access to the course dataset.
+ Copy text
 
 ## Project Background
 
