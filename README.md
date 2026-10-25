@@ -89,7 +89,7 @@ These are potential applications of the analysis, not verified business outcomes
 This repository contains the Python analysis notebook and an executive summary presenting the project's key findings.
 
 ### 1. Jupyter Notebook
-[View Python EDA Notebook](Activity_Course%203%20Automatidata%20project%20lab.ipynb)
+[View Python EDA Notebook](https://github.com/Priyanka2613/Automatidata-Taxi-Trip-Analysis/blob/main/Activity_Course%202%20Automatidata%20project%20lab.ipynb)
 
 Includes Python code, exploratory data analysis, visualizations, and conclusions.
 
